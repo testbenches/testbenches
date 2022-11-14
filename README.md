@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💬 I'm a special repository, having access to two repos: TestBenches & Mavlink. I need this to communicate and download the latest releases for TESS.
+Please ask me for more information by contacting Jasper in Indus
+
 <!--
 **testbenches/testbenches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
